@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\bin\Debug\net6.0-windows\4c_calcip.exe
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\bin\Debug\net6.0-windows\4c_calcip.deps.json
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\bin\Debug\net6.0-windows\4c_calcip.runtimeconfig.json
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\bin\Debug\net6.0-windows\4c_calcip.dll
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\bin\Debug\net6.0-windows\4c_calcip.pdb
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\_4c_calcip.Form1.resources
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.AssemblyInfo.cs
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.dll
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\refint\4c_calcip.dll
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.pdb
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\4c_calcip.genruntimeconfig.cache
+C:\Users\Admin\source\repos\4c_calcip\4c_calcip\obj\Debug\net6.0-windows\ref\4c_calcip.dll
